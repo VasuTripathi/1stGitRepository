@@ -1,4 +1,4 @@
 # 1stGitRepository
 This is my first git repository.
 <br>
-Author - Vasu Tripathi
+Author - Vasu Tripathi (user)
